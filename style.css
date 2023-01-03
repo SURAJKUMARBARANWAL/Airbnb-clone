@@ -1,0 +1,45 @@
+:root{
+    --font-size:16px;
+  
+
+}
+#card{
+    width: 80%;
+    height: 100%;
+    position: relative;
+    top: 2%;
+    left: 10%;
+    display: flex;
+    box-shadow: 5px 10px #888888;
+    border: 2px solid black;
+    margin: 10px;
+    justify-content:space-between;
+}
+#left-section{
+width: 50%;
+margin: 5px;
+}
+#person-info{
+height: 40%;
+margin-top: 20px;
+display: flex;
+}
+#person-img{
+    width: 40%;
+    height: 80%;
+}
+#person-detail{
+    width: 60%;
+    
+}
+#person-skill{
+    height: 60%;
+    display: inline;
+}
+#list{
+    margin-top: 30px;
+}
+#right-section{
+width: 50%;
+margin: 5px;
+}
